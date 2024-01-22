@@ -7,3 +7,4 @@ In particular I want to share four projects that aroused my particular interest 
 - Simulation of the dynamics with Monte Carlo and Euler method
 
 I share the paper that descibed with details the projects and also the EXCEL_VBA for the numerical results
+(In order to view the VBA code: open the file in Excel > go to Developer > Visual Basic)
