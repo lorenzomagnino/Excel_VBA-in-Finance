@@ -1,4 +1,4 @@
-# Excel_VBA-in-Finance
+# Excel_VBA in Finance
 This contains some of the projects carried out during the Stochastic Methods for Finance course. 
 In particular I want to share four projects that aroused my particular interest during the course: 
 - Pricing with Different Models
