@@ -1,5 +1,5 @@
 # Excel_VBA in Finance
-This contains some of the projects carried out during the Stochastic Methods for Finance course. 
+This contains some of the projects carried out during the Stochastic Methods for Finance course at University of Padova. 
 In particular I want to share four projects that aroused my particular interest during the course: 
 - Pricing with Different Models
 - Simulation and Analysis of the Greeks
